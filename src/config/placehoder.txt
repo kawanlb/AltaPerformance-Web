@@ -1,0 +1,1 @@
+Armazena arquivos de configuração, plugins, extensões, constantes globais (por exemplo, Reactotron).

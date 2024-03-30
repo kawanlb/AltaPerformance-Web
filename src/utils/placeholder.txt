@@ -1,0 +1,1 @@
+Funções que serão reaproveitadas e utilizadas em várias partes dos códigos.

@@ -1,0 +1,1 @@
+Reúne componentes reutilizáveis do React usados na interface.

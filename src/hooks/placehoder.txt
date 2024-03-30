@@ -1,0 +1,1 @@
+Local para armazenar hooks personalizados.
