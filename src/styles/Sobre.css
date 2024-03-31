@@ -17,7 +17,7 @@ body{
     left: 0;
     background-color: rgba(0, 0, 0, 0.4); /* Cor preta com 50% de opacidade */
   }
-  h1{
+  .sobre-titulo{
     position: absolute;
     left: 20px;
     top: 10px;
@@ -25,7 +25,7 @@ body{
     color: #FFFF;
     z-index: 1;
   }
-  .texto{
+  .sobre-texto{
     text-align: justify;
     color: #FFFF;
     position: absolute;

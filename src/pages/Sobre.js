@@ -6,8 +6,8 @@ const Sobre = () => {
     <>
     <div className='sobre-container'>
       <div className='sobre-overlay'></div>
-      <h1>Sobre nós</h1>
-      <p className='texto'>O Projeto com o objetivo de conscientizar sobre a posse responsável e controle populacional de animais de rua, amparando em situação de maus-tratos, risco de morte e abandono. É uma entidade não governamental, sem fins lucrativos, que visa tirar o maior número possível de animais das ruas, tratar de possíveis traumas e doenças e integrá-lo a famílias que estejam dispostas a dar muito amor e carinho. Amigos e voluntários dispostos a encontrar sempre o melhor lar e 
+      <h1 className='sobre-titulo'>Sobre nós</h1>
+      <p className='sobre-texto'>O Projeto com o objetivo de conscientizar sobre a posse responsável e controle populacional de animais de rua, amparando em situação de maus-tratos, risco de morte e abandono. É uma entidade não governamental, sem fins lucrativos, que visa tirar o maior número possível de animais das ruas, tratar de possíveis traumas e doenças e integrá-lo a famílias que estejam dispostas a dar muito amor e carinho. Amigos e voluntários dispostos a encontrar sempre o melhor lar e 
         famílias para dar uma vida digna aos animais.
         
          </p>
