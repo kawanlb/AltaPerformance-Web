@@ -14,7 +14,7 @@ const Layout = () => {
     <>
     <nav>
         <div className="logo-container">
-          <img src="../assets/Logo.png" alt="Logo" className="logo" />
+          <img src="../assets/images/Logo.png" alt="Logo" className="logo" />
           <span className="titulo">Amigo de Quatro Patas</span>
         </div>
       <ul>
