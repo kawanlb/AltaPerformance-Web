@@ -46,6 +46,7 @@
     width: 5rem;
     height: 5rem;
     margin-right: 10px;
+    border-radius: 2.5rem;
 }
 .titulo{
     font-family: 'Outfit';

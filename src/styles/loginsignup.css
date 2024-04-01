@@ -11,13 +11,7 @@ a{
     text-decoration: none;
 }
 
-body{
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: #dedede;
-}
+
 .pawprints {
     background-image: url('../../src/assets/images/paw_prints_trail_across_screen(1).png');
     position: fixed;
@@ -33,13 +27,17 @@ body{
 
 .container{
     position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 10px;
     width: 460px;
-    height: 610px;
+    height: 580px;
     border-radius: 12px;
     padding: 20px 30px 120px;
-    background: #07b9b3;
+    background: rgb(38, 217, 241);
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
     overflow: hidden;
+
 }
 
 .login-section{

@@ -1,6 +1,3 @@
-body{
-    background-color: rgb(255, 228, 225);
-}
 .sobre-container {
     background-image: url('../../public/assets/images/background.jpg');
     background-size: cover; /* Para cobrir todo o container */

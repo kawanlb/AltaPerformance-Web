@@ -1,6 +1,6 @@
 //LoginSignup.js
 import React, { useEffect } from 'react';
-import './styles.css'; 
+import '../styles/loginsignup.css'; 
 
 function LoginSignup() {
   useEffect(() => {
@@ -27,6 +27,7 @@ function LoginSignup() {
   }, []);
 
   return (
+    <>
     <div>
       <div class="pawprints"></div>
     <div className="container">
@@ -68,6 +69,7 @@ function LoginSignup() {
       </div>
     </div>
   </div>
+  </>
   );
 }
 

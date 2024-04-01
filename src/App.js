@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "./pages/Layout";
 import Home from "./pages/Home";
-import Cadastro from "./pages/Cadastro";
+import Cadastro from "./pages/LoginSignup";
 import Sobre from "./pages/Sobre";
 
 export default function App() {
