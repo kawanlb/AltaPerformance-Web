@@ -7,7 +7,8 @@ const Layout = () => {
   const links = [
     { to: "/", text: "Home" },
     { to: "/sobre", text: "Sobre" },
-    { to: "/cadastro", text: "Cadastrar" }
+    { to: "/cadastro", text: "Cadastrar" },
+    { to: "/maps", text: "Mapa" }
   ];
 
   return (
