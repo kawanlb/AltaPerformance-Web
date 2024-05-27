@@ -1,3 +1,21 @@
+@font-face {
+  font-family: 'Actor';
+  src: url('../public/assets/fonts/Actor-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Comfortaa';
+  src: url('../public/assets/fonts/Comfortaa-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Outfit';
+  src: url('../public/assets/fonts/Outfit-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Ribeye-Regular';
+  src: url('../public/assets/fonts/Ribeye-Regular.ttf') format('truetype');
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

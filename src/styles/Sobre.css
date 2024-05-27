@@ -1,0 +1,37 @@
+.sobre-container {
+    background-image: url('../../public/assets/images/background.jpg');
+    background-size: cover; /* Para cobrir todo o container */
+    background-position: 25% 25%; /* Para centralizar a imagem */
+    /* Outros estilos, como altura e largura do container, podem ser adicionados conforme necessário */
+    height: 60vh;
+    position: relative;
+  }
+  .sobre-overlay {
+    position: absolute; /* Para sobrepor a imagem */
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.4); /* Cor preta com 50% de opacidade */
+  }
+  .sobre-titulo{
+    position: absolute;
+    left: 20px;
+    top: 10px;
+    font-size: 2.2rem;
+    color: #FFFF;
+    z-index: 1;
+  }
+  .sobre-texto{
+    text-align: justify;
+    color: #FFFF;
+    position: absolute;
+    z-index: 2;
+    top: 60px;
+    left: 20px;
+    width: 700px;
+  }
+  p{
+    text-align: justify;
+    width: 700px;
+  }

@@ -1,0 +1,61 @@
+/* Reset de estilos para garantir uma base consistente */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body{
+    margin: 0;
+    
+  }
+  
+  /* Estilos para o cabeçalho de navegação */
+  nav {
+    background-color: rgb(38, 217, 241);
+    padding-top: 10px;
+    align-items: center;
+    display: flex;
+    justify-content:space-between;
+  }
+  
+  ul {
+    display: flex;
+    list-style-type: none;
+    margin-right:100px;
+    padding-bottom: 10px;
+  }
+  
+  li {
+    display: inline;
+    margin: 0 40px;
+  }
+  
+  a {
+    text-decoration: none;
+    font-size: 1.3em;
+    font-weight: 600;
+    color: #FFFF;
+  }
+  
+  a:hover {
+    font-weight: 600;
+    color: #FFFF;
+    text-decoration: underline;
+  }
+.logo{
+    width: 5rem;
+    height: 5rem;
+    margin-right: 10px;
+    border-radius: 2.5rem;
+}
+.titulo{
+    font-family: 'Outfit';
+    color: #FFFF;
+    font-size: 1.5rem;
+}
+.logo-container {
+    display: flex; /* Exibe os elementos em linha */
+    align-items: center; /* Alinha os elementos verticalmente */
+    margin-left: 30px;
+    margin-bottom: 10px;
+  }
